@@ -1,4 +1,4 @@
-# eletron_tmp
+# electron_tmp
 
 ## Project setup
 ```
