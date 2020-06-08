@@ -1,7 +1,7 @@
 <template>
   <div style="text-align: center;">
     <div>
-      <img src="~@/assets/logo.png" />
+      <img src="~@/assets/img/logo.png" />
     </div>
     <div style="font-size: 21px; padding: 20px;">
       {{ $t("welcome") }}

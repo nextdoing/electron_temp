@@ -27,6 +27,8 @@
         <div class="value">{{ platform }}</div>
       </div>
     </div>
+    <s-icon name="eye" /> | 
+    <s-icon name="email" />
     <p class="link" @click="open('https://www.baidu.com')">百度</p>
   </div>
 </template>
