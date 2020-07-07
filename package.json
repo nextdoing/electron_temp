@@ -32,7 +32,7 @@
         "@vue/cli-service": "~4.4.0",
         "@vue/test-utils": "^1.0.3",
         "chai": "^4.1.2",
-        "electron": "6.0.0",
+        "electron": "9.1.0",
         "electron-icon-builder": "^1.0.2",
         "less": "^3.0.4",
         "less-loader": "^5.0.0",
